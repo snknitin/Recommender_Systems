@@ -1,5 +1,5 @@
 # Recommender_Systems
-Attempting different kinds of recommendation algorithms on popular datasets
+Attempting different kinds of recommendation algorithms on popular datasets and learning from 2 online courses
 
 
 1. Item-based collaborative filtering - https://lnkd.in/gNkK9HP
