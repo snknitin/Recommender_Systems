@@ -15,6 +15,9 @@ Bonus 2: Hidden Markov models - https://lnkd.in/gzzNGtj
 
 Start by getting familiar with collaborative filtering at a high level - https://lnkd.in/gtE5HRB
 
+#  Datasets 
+
+
 Then grab a dataset:
 
 * Last.fm - https://lnkd.in/gUr-8U6
